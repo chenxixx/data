@@ -1,0 +1,10 @@
+server:
+  port: 8766
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+    context-path: /data
+
+swagger:
+  enabled: true
